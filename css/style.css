@@ -1,0 +1,17 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+#clock {
+    font-family: 'Bungee Shade', cursive;
+    color: #fff;
+    font-size: 70px;
+
+    /* to position the div in center */
+    position: relative;
+    top: 50%;
+    /* half of the height of the div */
+    margin-top: -42px;
+    text-align: center;
+}
